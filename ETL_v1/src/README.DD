@@ -1,0 +1,4 @@
+1 - ETL criado para fazer a leitura de varias BASES com mais de 10 milhões de linhas e retornar o valor de uma unica coluna sem dados duplicados
+2 - pasta "Data" - contém os arquivos de dados brutos dividos em raw e ready
+3 - pasta "raw" - contém os arquivos brutos a serem processados 
+4 - pasta "ready" - contém os arquivos de saida apos serem processados pelo meu código main.py prontos para uso
